@@ -1,5 +1,6 @@
-A Bot of guangsudalao
-[@guangsudalao](https://github.com/guangsudalao)
+I'm working in my main accout [@Guangsudalao](https://github.com/Guangsudalao). This is a robot account to do some tasks that have been planned.
+
  
-![Stats](https://github-readme-stats.vercel.app/api?username=guangsudalaobot&show_icons=true&theme=ocean_dark)  
-![TopLangs](https://github-readme-stats.vercel.app/api/top-langs?username=guangsudalaobot&layout=compact&show_icons=true&theme=ocean_dark)
+## My Stats:
+
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=GuangsudalaoBot&data=followers,repositories,stars)](https://github.com/Jurredr/github-widgetbox)
