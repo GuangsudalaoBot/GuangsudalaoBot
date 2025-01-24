@@ -1,4 +1,4 @@
-## Hi, I’m @GuangsudalaoBot2:
+## Hi, I’m @GuangsudalaoBot:
 I'm working in my main accout @Guangsudalao. This is a robot account to do some tasks that have been planned.
 
 ## My Website：
